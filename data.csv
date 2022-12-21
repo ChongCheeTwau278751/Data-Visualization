@@ -1,0 +1,181 @@
+Year,Causes of Injury,Value
+2000,Falls,25491
+2001,Falls,26548
+2002,Falls,22770
+2003,Falls,20522
+2004,Falls,18379
+2005,Falls,16529
+2006,Falls,16974
+2007,Falls,13417
+2008,Falls,12324
+2009,Falls,13851
+2010,Falls,14217
+2011,Falls,16254
+2012,Falls,15382
+2013,Falls,16561
+2014,Falls,17803
+2015,Falls,18626
+2016,Falls,20253
+2017,Falls,22972
+2018,Falls,23932
+2019,Falls,25068
+2000,Struck by falling objects,12428
+2001,Struck by falling objects,10146
+2002,Struck by falling objects,10599
+2003,Struck by falling objects,9261
+2004,Struck by falling objects,8524
+2005,Struck by falling objects,7813
+2006,Struck by falling objects,5915
+2007,Struck by falling objects,4930
+2008,Struck by falling objects,5131
+2009,Struck by falling objects,5690
+2010,Struck by falling objects,5495
+2011,Struck by falling objects,4689
+2012,Struck by falling objects,4487
+2013,Struck by falling objects,5078
+2014,Struck by falling objects,4139
+2015,Struck by falling objects,3943
+2016,Struck by falling objects,3848
+2017,Struck by falling objects,4421
+2018,Struck by falling objects,4210
+2019,Struck by falling objects,5306
+2000,"Stepping on, striking against or struck by objects (excludes falling objects)",29802
+2001,"Stepping on, striking against or struck by objects (excludes falling objects)",24855
+2002,"Stepping on, striking against or struck by objects (excludes falling objects)",25730
+2003,"Stepping on, striking against or struck by objects (excludes falling objects)",22365
+2004,"Stepping on, striking against or struck by objects (excludes falling objects)",22409
+2005,"Stepping on, striking against or struck by objects (excludes falling objects)",19710
+2006,"Stepping on, striking against or struck by objects (excludes falling objects)",18621
+2007,"Stepping on, striking against or struck by objects (excludes falling objects)",24706
+2008,"Stepping on, striking against or struck by objects (excludes falling objects)",21347
+2009,"Stepping on, striking against or struck by objects (excludes falling objects)",20245
+2010,"Stepping on, striking against or struck by objects (excludes falling objects)",21295
+2011,"Stepping on, striking against or struck by objects (excludes falling objects)",22417
+2012,"Stepping on, striking against or struck by objects (excludes falling objects)",23023
+2013,"Stepping on, striking against or struck by objects (excludes falling objects)",22686
+2014,"Stepping on, striking against or struck by objects (excludes falling objects)",21845
+2015,"Stepping on, striking against or struck by objects (excludes falling objects)",20803
+2016,"Stepping on, striking against or struck by objects (excludes falling objects)",19620
+2017,"Stepping on, striking against or struck by objects (excludes falling objects)",22410
+2018,"Stepping on, striking against or struck by objects (excludes falling objects)",23051
+2019,"Stepping on, striking against or struck by objects (excludes falling objects)",25823
+2000,Caught in or between objects,12995
+2001,Caught in or between objects,10405
+2002,Caught in or between objects,10518
+2003,Caught in or between objects,9735
+2004,Caught in or between objects,8882
+2005,Caught in or between objects,7663
+2006,Caught in or between objects,7859
+2007,Caught in or between objects,5421
+2008,Caught in or between objects,5506
+2009,Caught in or between objects,5643
+2010,Caught in or between objects,5336
+2011,Caught in or between objects,4636
+2012,Caught in or between objects,4278
+2013,Caught in or between objects,3824
+2014,Caught in or between objects,4521
+2015,Caught in or between objects,4298
+2016,Caught in or between objects,5431
+2017,Caught in or between objects,2801
+2018,Caught in or between objects,3582
+2019,Caught in or between objects,3431
+2000,Over-exertion or strenuous movements,3158
+2001,Over-exertion or strenuous movements,2137
+2002,Over-exertion or strenuous movements,1923
+2003,Over-exertion or strenuous movements,1610
+2004,Over-exertion or strenuous movements,1435
+2005,Over-exertion or strenuous movements,1409
+2006,Over-exertion or strenuous movements,965
+2007,Over-exertion or strenuous movements,3380
+2008,Over-exertion or strenuous movements,3139
+2009,Over-exertion or strenuous movements,2715
+2010,Over-exertion or strenuous movements,3518
+2011,Over-exertion or strenuous movements,3519
+2012,Over-exertion or strenuous movements,4943
+2013,Over-exertion or strenuous movements,5609
+2014,Over-exertion or strenuous movements,5202
+2015,Over-exertion or strenuous movements,5462
+2016,Over-exertion or strenuous movements,7047
+2017,Over-exertion or strenuous movements,6978
+2018,Over-exertion or strenuous movements,7235
+2019,Over-exertion or strenuous movements,7951
+2000,Exposure to or contact with extreme temperatures,1824
+2001,Exposure to or contact with extreme temperatures,1529
+2002,Exposure to or contact with extreme temperatures,1415
+2003,Exposure to or contact with extreme temperatures,1309
+2004,Exposure to or contact with extreme temperatures,1159
+2005,Exposure to or contact with extreme temperatures,1000
+2006,Exposure to or contact with extreme temperatures,853
+2007,Exposure to or contact with extreme temperatures,921
+2008,Exposure to or contact with extreme temperatures,832
+2009,Exposure to or contact with extreme temperatures,646
+2010,Exposure to or contact with extreme temperatures,655
+2011,Exposure to or contact with extreme temperatures,539
+2012,Exposure to or contact with extreme temperatures,433
+2013,Exposure to or contact with extreme temperatures,422
+2014,Exposure to or contact with extreme temperatures,379
+2015,Exposure to or contact with extreme temperatures,387
+2016,Exposure to or contact with extreme temperatures,436
+2017,Exposure to or contact with extreme temperatures,451
+2018,Exposure to or contact with extreme temperatures,509
+2019,Exposure to or contact with extreme temperatures,420
+2000,Exposure to or contact with electricity,69
+2001,Exposure to or contact with electricity,62
+2002,Exposure to or contact with electricity,93
+2003,Exposure to or contact with electricity,64
+2004,Exposure to or contact with electricity,70
+2005,Exposure to or contact with electricity,42
+2006,Exposure to or contact with electricity,33
+2007,Exposure to or contact with electricity,68
+2008,Exposure to or contact with electricity,60
+2009,Exposure to or contact with electricity,50
+2010,Exposure to or contact with electricity,53
+2011,Exposure to or contact with electricity,70
+2012,Exposure to or contact with electricity,51
+2013,Exposure to or contact with electricity,54
+2014,Exposure to or contact with electricity,47
+2015,Exposure to or contact with electricity,49
+2016,Exposure to or contact with electricity,48
+2017,Exposure to or contact with electricity,23
+2018,Exposure to or contact with electricity,25
+2019,Exposure to or contact with electricity,19
+2000,Exposure to or contact with harmful substances,1031
+2001,Exposure to or contact with harmful substances,796
+2002,Exposure to or contact with harmful substances,508
+2003,Exposure to or contact with harmful substances,390
+2004,Exposure to or contact with harmful substances,316
+2005,Exposure to or contact with harmful substances,255
+2006,Exposure to or contact with harmful substances,258
+2007,Exposure to or contact with harmful substances,239
+2008,Exposure to or contact with harmful substances,210
+2009,Exposure to or contact with harmful substances,216
+2010,Exposure to or contact with harmful substances,232
+2011,Exposure to or contact with harmful substances,147
+2012,Exposure to or contact with harmful substances,149
+2013,Exposure to or contact with harmful substances,166
+2014,Exposure to or contact with harmful substances,131
+2015,Exposure to or contact with harmful substances,133
+2016,Exposure to or contact with harmful substances,124
+2017,Exposure to or contact with harmful substances,131
+2018,Exposure to or contact with harmful substances,190
+2019,Exposure to or contact with harmful substances,152
+2000,Other causes of accidents,8208
+2001,Other causes of accidents,9448
+2002,Other causes of accidents,8254
+2003,Other causes of accidents,8602
+2004,Other causes of accidents,7958
+2005,Other causes of accidents,6761
+2006,Other causes of accidents,6843
+2007,Other causes of accidents,3257
+2008,Other causes of accidents,5585
+2009,Other causes of accidents,6130
+2010,Other causes of accidents,6838
+2011,Other causes of accidents,7626
+2012,Other causes of accidents,8806
+2013,Other causes of accidents,9157
+2014,Other causes of accidents,9264
+2015,Other causes of accidents,9136
+2016,Other causes of accidents,9811
+2017,Other causes of accidents,9793
+2018,Other causes of accidents,9897
+2019,Other causes of accidents,9472
